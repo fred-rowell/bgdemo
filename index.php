@@ -92,7 +92,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Hello Unum!</h2>
           <p>
-            <img src="redrose.jpeg">
+            <img src="bluerose.jpeg">
           </p>
         </div>
       </div>
