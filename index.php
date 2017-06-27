@@ -90,9 +90,9 @@
           </table>
         </div>
         <div class="col-md-6 col-md-offset-3">
-          <h2>Application Example</h2>
+          <h2>Hello Unum!</h2>
           <p>
-            <img src="greenrose.jpeg">
+            <img src="redrose.jpeg">
           </p>
         </div>
       </div>
