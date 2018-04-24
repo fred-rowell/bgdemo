@@ -90,9 +90,9 @@
           </table>
         </div>
         <div class="col-md-6 col-md-offset-3">
-          <h2>Roses are RED.</h2>
+          <h2>Roses are GREEN.</h2>
           <p>
-            <img src="redrose.jpeg">
+            <img src="greenrose.jpeg">
           </p>
         </div>
       </div>
